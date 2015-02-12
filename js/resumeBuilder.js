@@ -100,6 +100,14 @@ var projects = {
             "images": [
                 "images/Project2_1.png"
             ]
+        },
+        {
+            "title": "Froggerlike Arcade Game",
+            "dates": "2015",
+            "description": "Getting to grips with object oriented JavaScript, we learned how theese objects interact with each other.",
+            "images": [
+                "images/Project3_1.png"
+            ]
         }
     ]
 };
